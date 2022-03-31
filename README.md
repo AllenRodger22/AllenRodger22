@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on AudiotoText Project
 
-- 🌱 I’m currently learning Flutter,Node,Machine Learning and Backend stuff
+- 🌱 I’m currently learning Node, and REST.
 
 - 👯 I’m looking to collaborate on [AI Powered ToDo Website](https://github.com/JoaoGabriel-Lima/notemock_website)
 
