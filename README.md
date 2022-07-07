@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Alan Roger! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=32></img></h1>
-<h3 align="left">A passionate Machine Learning and software developer from Brazil</h3>
+<h3 align="left">A Data Engineer and Data Science Student on Brazil </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AllenRodger22&label=Profile%20views&color=0e75b6&style=flat" alt="AllenRodger22" /> </p>
 
