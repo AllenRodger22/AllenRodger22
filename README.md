@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AllenRodger22&label=Profile%20views&color=0e75b6&style=flat" alt="AllenRodger22" /> </p>
 
-- 🔭 I’m currently working on AudiotoText Project
+- 🔭 I’m currently working on Data Enginerring portfolio 👀
 
-- 🌱 I’m currently learning Node, and REST.
+- 🌱 I’m currently learning AWS lambda, ETL design, data pipelines.
 
 - 👯 I’m looking to collaborate on [AI Powered ToDo Website](https://github.com/JoaoGabriel-Lima/notemock_website)
 
-- 🤝 I’m looking for help with [find issues on my main project](https://github.com/AllenRodger22/AudiotoText)
+- 🤝 I’m looking for help with cloud stuff :p
 
-- 💬 Ask me about **Machine learning and Agile Development**
+- 💬 Ask me about **DATA**
 
 - 📫 How to reach me: **allen.thepolitecat@gmail.com**
 
