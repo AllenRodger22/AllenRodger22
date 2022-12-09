@@ -1,8 +1,5 @@
 ### Hi there 👋, Alan here!
 #### Data Engineer | Data Scientist | Data Analyst
-- I'm currently learning: Cloud, Spark, Hadoop
-- Looking for new opportunities as Data Engineer / Scientist/ Analyst
-
 
 Skills: JS / Python / SQL / Tableau / ETLs
 
