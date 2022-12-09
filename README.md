@@ -1,24 +1,21 @@
-<h1 align="left">Hi, I'm Alan Roger! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=32></img></h1>
-<h3 align="left">A Data Engineer and Data Science Student on Brazil </h3>
+### Hi there 👋, Alan here!
+#### Data Engineer | Data Scientist | Data Analyst
+- I'm currently learning: Cloud, Spark, Hadoop
+- Looking for new opportunities as Data Engineer / Scientist/ Analyst
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AllenRodger22&label=Profile%20views&color=0e75b6&style=flat" alt="AllenRodger22" /> </p>
 
-- 🔭 I’m currently working on Data Enginerring portfolio 👀
+Skills: JS / Python / SQL / Tableau / ETLs
 
-- 🌱 I’m currently learning AWS lambda, ETL design, data pipelines.
+- 🔭 I’m currently working on Looking for a position as data engineer 
+- 🌱 I’m currently learning Spark / Hadoop 
+- 💬 Ask me about english improvement and fast learning 
+- 📫 How to reach me: allen.thepolitecat@gmail.com 
+- 😄 Pronouns: he/him 
+- ⚡ Fun fact: I have an yellow lazy-crazy cat :P 
 
-- 👯 I’m looking to collaborate on [AI Powered ToDo Website](https://github.com/JoaoGabriel-Lima/notemock_website)
 
-- 🤝 I’m looking for help with cloud stuff :p
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AllenRodger22)  
 
-- 💬 Ask me about **DATA**
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AllenRodger22&show_icons=true)  
 
-- 📫 How to reach me: **allen.thepolitecat@gmail.com**
-
-- ⚡ Fun fact: **I like to draw arrows when I'm studying**
-
-## My github stats
-<div>
-<img height="165em" width: "100em" src="https://github-readme-stats.vercel.app/api?username=AllenRodger22&count_private=true&theme=github_dark&include_all_commits=true" />
-<img height="165em" width: "100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllenRodger22&layout=compact&theme=github_dark&include_all_commits=true" />
-</div>
+![Profile views](https://gpvc.arturio.dev/AllenRodger22)  
