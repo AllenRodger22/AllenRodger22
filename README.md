@@ -1,4 +1,4 @@
-### Hi there 👋, Alan here!
+### 🐸 Alan here!
 ### this is a Frog Startup Company Github since 12/21/2022 ( and I'm working to improve the overall quality of experience that you can have here)
 #### Game Designer | Board Game Designer
 
