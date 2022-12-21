@@ -1,14 +1,13 @@
 ### Hi there 👋, Alan here!
-#### Data Engineer | Data Scientist | Data Analyst
+### this is a Frog Startup Company Github since 12/21/2022 ( and I'm working to improve the overall quality of experience that you can have here)
+#### Game Designer | Board Game Designer
 
-Skills: JS / Python / SQL / Tableau / ETLs
 
-- 🔭 I’m currently working on Looking for a position as data engineer 
-- 🌱 I’m currently learning Spark / Hadoop 
-- 💬 Ask me about english improvement and fast learning 
+- 🔭 What we are doing? 
+  - Now we're working to bring all our 0.1.0 game versions to 1.0.0 at least
+- 💬 Any feedback would be appreciated for further game improvements
 - 📫 How to reach me: allen.thepolitecat@gmail.com 
-- 😄 Pronouns: he/him 
-- ⚡ Fun fact: I have an yellow lazy-crazy cat :P 
+- ⚡ Fun fact: Alan have an yellow lazy-crazy cat :P 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AllenRodger22)  
