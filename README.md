@@ -1,10 +1,24 @@
-### 🐸 Alan here!
-- this is my Github where I put some of my code 
+# 👋 Fala, eu sou o Alan Roger
 
-- 📫 How to reach me: allen.thepolitecat@gmail.com 
-- ⚡ Fun fact: Alan have an yellow lazy-crazy cat :P 
+🚀 **CTO do i2Sales** | 💡 **Arquiteto de Soluções** | 🌍 **Experiência Global em Engenharia de Dados**
 
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AllenRodger22&show_icons=true)  
+## 🧠 Sobre mim
+Sou apaixonado por transformar ideias em produtos reais.  
+Atualmente lidero o desenvolvimento do **i2Sales**, um CRM criado para organizar, simplificar e escalar vendas no setor imobiliário.  
 
-![Profile views](https://gpvc.arturio.dev/AllenRodger22)  
+Minha trajetória inclui:
+- 🌍 **Projetos internacionais** de biossegurança e engenharia de dados
+- 🏗 **Criação de sistemas escaláveis** usando FastAPI, React, Tailwind e Supabase
+- 📊 **Modelagem de dados** e automação de fluxos para ganho de produtividade
+- 🤖 **Integração de IA e automação** em funis de vendas para times comerciais
+
+---
+
+## 🛠️ Tech Stack
+```text
+Backend:  FastAPI · Flask · Supabase (Postgres + RLS) · Render  
+Frontend: React · Vite · Tailwind · Glassmorphism UI  
+DevOps:   GitHub Actions · Vercel · Docker  
+Dados:    SQL · Python · APIs REST · Automação de Pipelines
