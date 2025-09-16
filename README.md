@@ -9,7 +9,7 @@ Sou apaixonado por transformar ideias em produtos reais.
 Atualmente lidero o desenvolvimento do **i2Sales**, um CRM criado para organizar, simplificar e escalar vendas no setor imobiliário.  
 
 Minha trajetória inclui:
-- 🌍 **Projetos internacionais** de biossegurança e engenharia de dados
+- 🌍 **Projetos internacionais** de ciberssegurança e engenharia de dados
 - 🏗 **Criação de sistemas escaláveis** usando FastAPI, React, Tailwind e Supabase
 - 📊 **Modelagem de dados** e automação de fluxos para ganho de produtividade
 - 🤖 **Integração de IA e automação** em funis de vendas para times comerciais
