@@ -1,24 +1,24 @@
-# 👋 Bem vindo! Eu sou Alan Roger.
+# 👋 Welcome! I'm Alan Roger.
 
-🚀 **Analista de Dados** | 💡 **Arquiteto de Soluções** | 🌍 **Experiência Global em Engenharia de Dados**
+🚀 **Data Analyst** | 💡 **Solutions Architect** | 🌍 **Global Experience in Data Engineering**
 
 ---
 
-## 🧠 Sobre mim
-Sou apaixonado por transformar ideias em produtos reais.  
-Atualmente buscando oportunidades na área de dados. Análise, Ciência e Engenharia de Dados.
+## 🧠 About Me
+I’m passionate about turning ideas into real products.  
+I’m currently seeking opportunities in the data field: Analytics, Data Science, and Data Engineering.
 
-Minha trajetória inclui:
-- 🌍 **Projetos internacionais** de ciberssegurança e engenharia de dados
-- 🏗 **Criação de sistemas escaláveis** usando FastAPI, React, Tailwind e Supabase
-- 📊 **Modelagem de dados** e automação de fluxos para ganho de produtividade
-- 🤖 **Integração de IA e automação** em funis de vendas para times comerciais
+My journey includes:
+- 🌍 **International projects** in cybersecurity and data engineering  
+- 🏗 **Building scalable systems** using FastAPI, React, Tailwind, and Supabase  
+- 📊 **Data modeling** and workflow automation to boost productivity  
+- 🤖 **AI and automation integration** in sales funnels for commercial teams  
 
 ---
 
 ## 🛠️ Tech Stack
 ```text
-Backend:  FastAPI · Flask · Supabase (Postgres + RLS) · Render  
-Frontend: React · Vite · Tailwind · Glassmorphism UI  
-DevOps:   GitHub Actions · Vercel · Docker  
-Dados:    SQL · Python · APIs REST · Automação de Pipelines
+Backend:  FastAPI · Flask · Supabase (Postgres + RLS) · Render
+Frontend: React · Vite · Tailwind · Glassmorphism UI
+DevOps:   GitHub Actions · Vercel · Docker
+Data:     SQL · Python · REST APIs · Pipeline Automation
