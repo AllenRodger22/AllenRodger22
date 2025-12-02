@@ -1,4 +1,4 @@
-# 👋 Fala, eu sou o Alan Roger
+# 👋 Bem vindo! Eu sou Alan Roger.
 
 🚀 **CTO do i2Sales** | 💡 **Arquiteto de Soluções** | 🌍 **Experiência Global em Engenharia de Dados**
 
