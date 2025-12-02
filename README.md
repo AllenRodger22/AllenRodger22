@@ -1,12 +1,12 @@
 # 👋 Bem vindo! Eu sou Alan Roger.
 
-🚀 **CTO do i2Sales** | 💡 **Arquiteto de Soluções** | 🌍 **Experiência Global em Engenharia de Dados**
+🚀 **Analista de Dados** | 💡 **Arquiteto de Soluções** | 🌍 **Experiência Global em Engenharia de Dados**
 
 ---
 
 ## 🧠 Sobre mim
 Sou apaixonado por transformar ideias em produtos reais.  
-Atualmente lidero o desenvolvimento do **i2Sales**, um CRM criado para organizar, simplificar e escalar vendas no setor imobiliário.  
+Atualmente buscando oportunidades na área de dados. Análise, Ciência e Engenharia de Dados.
 
 Minha trajetória inclui:
 - 🌍 **Projetos internacionais** de ciberssegurança e engenharia de dados
