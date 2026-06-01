@@ -1,24 +1,43 @@
-# 👋 Welcome! I'm Alan Roger.
+## Alan Roger Moreira Aragão
 
-🚀 **Data Analyst** | 💡 **Solutions Architect** | 🌍 **Global Experience in Data Engineering**
+**Mathematics · Computer Science · Artificial Intelligence**
 
----
+Exploring the foundations of computation, machine learning, and mathematical reasoning.
 
-## 🧠 About Me
-I’m passionate about turning ideas into real products.  
-I’m currently seeking opportunities in the data field: Analytics, Data Science, and Data Engineering.
+### About me
 
-My journey includes:
-- 🌍 **International projects** in cybersecurity and data engineering  
-- 🏗 **Building scalable systems** using FastAPI, React, Tailwind, and Supabase  
-- 📊 **Data modeling** and workflow automation to boost productivity  
-- 🤖 **AI and automation integration** in sales funnels for commercial teams  
+I am interested in the intersection of:
 
----
+- Mathematical structures
+- Functional programming
+- Machine learning
+- Neural network architectures
+- Logic and computability theory
+- General System Theory
 
-## 🛠️ Tech Stack
-```text
-Backend:  FastAPI · Flask · Supabase (Postgres + RLS) · Render
-Frontend: React · Vite · Tailwind · Glassmorphism UI
-DevOps:   GitHub Actions · Vercel · Docker
-Data:     SQL · Python · REST APIs · Pipeline Automation
+My current focus is understanding how mathematical abstractions can be used to design more efficient computational systems and intelligent models.
+
+### Research Interests
+
+- Artificial Intelligence
+- Neural Architecture Design
+- Functional Programming
+- Mathematical Modeling
+- Computational Learning Theory
+- Automated Reasoning
+- Knowledge Representation
+- Novel Models of Computation
+
+### Technologies
+
+- Python
+- SQL
+- Haskell
+- PostgreSQL
+- Numpy
+- Scipy
+- hmatrix
+
+### Long-Term Goal
+
+To contribute to the development of new computational paradigms and safe AGI.
